@@ -1,6 +1,6 @@
 # oil-sentiment-llm
 
-Example LLM analysis for the oil-sentiment repo using Langchain and Groq and NLP.
+Example LLM analysis for the oil-sentiment repo using Langchain, Groq, and NLP.
 
 ## Description
 
